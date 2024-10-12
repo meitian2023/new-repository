@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>小玉调教日记</title>
+    <link>https://yourwebsite.com</link>
+    <description>小雨被男友抛弃, 竟只因男友嫌弃她太过保守 &amp; 没有冒险精神......</description>
+    <language>zh-CN</language>
+    <itunes:author>欲魏之</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    
+    <item>
+      <title>第一集：播客简介</title>
+      <description>小雨被男友抛弃, 竟只因男友嫌弃她太过保守 &amp; 没有冒险精神......</description>
+      <link>https://drive.google.com/uc?export=download&id=1XLso_-On00ojjrg7Wdki2M__hGbM0Ipy</link>
+      <guid>https://drive.google.com/uc?export=download&id=1XLso_-On00ojjrg7Wdki2M__hGbM0Ipy</guid>
+      <pubDate>Fri, 11 Oct 2024 10:00:00 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&id=1XLso_-On00ojjrg7Wdki2M__hGbM0Ipy" length="22208044" type="audio/wav"/>
+    </item>
+
+  </channel>
+</rss>
